@@ -5,3 +5,4 @@ console.log("lalalal");
 console.log("lalalal");
 console.log("lalalal");
 console.log("1");
+console.log("2");
