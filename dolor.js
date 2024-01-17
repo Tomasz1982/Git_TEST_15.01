@@ -3,3 +3,4 @@ console.log("result is" + result);
 console.log("Dolor sit amet");
 console.log("dolor *2");
 console.log("zmiany po dodaniu config i pushu" );
+console.log("zmiany po dodaniu config i pushu" );
